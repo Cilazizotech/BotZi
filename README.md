@@ -1,6 +1,8 @@
 
 # BotZi
 BotZi 3D printed robotic arm with Arduino Nano
+<img width="2638" height="1752" alt="2026-07-17T14_27_06 472Z-botzi_assembly__rendered_part1" src="https://github.com/user-attachments/assets/a82ce983-753b-4e3b-8811-e627a5fe6c41" />
+
 
 Please use one of the .ino file according to your language preferences:
 1. BotZi_controller_sw_20260712_v1.2.ino - Hungarian
@@ -36,4 +38,4 @@ https://www.tindie.com/products/43401/
 <img width="2336" height="4148" alt="2026-07-17T14_58_29 963Z-20260613_181218" src="https://github.com/user-attachments/assets/c0c49d64-e497-4d26-9c69-c4e2119b0dc7" />
 <img width="3111" height="1752" alt="2026-07-17T14_58_29 963Z-20260613_181212" src="https://github.com/user-attachments/assets/da7127ae-a763-4dac-a92b-050597b55e5a" />
 <img width="3111" height="1752" alt="2026-07-17T14_58_29 963Z-20260613_181209" src="https://github.com/user-attachments/assets/6155fc9b-5327-48d8-9b63-b8059b241a74" />
-<img width="2638" height="1752" alt="2026-07-17T14_27_06 472Z-botzi_assembly__rendered_part1" src="https://github.com/user-attachments/assets/a82ce983-753b-4e3b-8811-e627a5fe6c41" />
+
