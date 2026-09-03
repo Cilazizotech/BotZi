@@ -1,8 +1,3 @@
-<img width="675" height="1073" alt="gb4" src="https://github.com/user-attachments/assets/d70c9f2a-d739-4d27-8715-50d8fc0e37ee" />
-<img width="655" height="777" alt="gb3" src="https://github.com/user-attachments/assets/7261c5c4-126a-4007-b9a3-3a6a8e40e864" />
-<img width="604" height="891" alt="gb2" src="https://github.com/user-attachments/assets/082d8b2e-17c4-46c7-98ac-0bc449a4f7e4" />
-<img width="829" height="675" alt="gb1" src="https://github.com/user-attachments/assets/74ce98c4-4cea-412d-9974-adef328effaf" />
-
 # BotZi
 BotZi 3D printed robotic arm with Arduino Nano
 <img width="2638" height="1752" alt="2026-07-17T14_27_06 472Z-botzi_assembly__rendered_part1" src="https://github.com/user-attachments/assets/a82ce983-753b-4e3b-8811-e627a5fe6c41" />
@@ -42,4 +37,8 @@ https://www.tindie.com/products/43401/
 <img width="2336" height="4148" alt="2026-07-17T14_58_29 963Z-20260613_181218" src="https://github.com/user-attachments/assets/c0c49d64-e497-4d26-9c69-c4e2119b0dc7" />
 <img width="3111" height="1752" alt="2026-07-17T14_58_29 963Z-20260613_181212" src="https://github.com/user-attachments/assets/da7127ae-a763-4dac-a92b-050597b55e5a" />
 <img width="3111" height="1752" alt="2026-07-17T14_58_29 963Z-20260613_181209" src="https://github.com/user-attachments/assets/6155fc9b-5327-48d8-9b63-b8059b241a74" />
+<img width="675" height="1073" alt="gb4" src="https://github.com/user-attachments/assets/d70c9f2a-d739-4d27-8715-50d8fc0e37ee" />
+<img width="655" height="777" alt="gb3" src="https://github.com/user-attachments/assets/7261c5c4-126a-4007-b9a3-3a6a8e40e864" />
+<img width="604" height="891" alt="gb2" src="https://github.com/user-attachments/assets/082d8b2e-17c4-46c7-98ac-0bc449a4f7e4" />
+<img width="829" height="675" alt="gb1" src="https://github.com/user-attachments/assets/74ce98c4-4cea-412d-9974-adef328effaf" />
 
