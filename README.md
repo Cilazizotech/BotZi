@@ -1,3 +1,7 @@
+<img width="675" height="1073" alt="gb4" src="https://github.com/user-attachments/assets/d70c9f2a-d739-4d27-8715-50d8fc0e37ee" />
+<img width="655" height="777" alt="gb3" src="https://github.com/user-attachments/assets/7261c5c4-126a-4007-b9a3-3a6a8e40e864" />
+<img width="604" height="891" alt="gb2" src="https://github.com/user-attachments/assets/082d8b2e-17c4-46c7-98ac-0bc449a4f7e4" />
+<img width="829" height="675" alt="gb1" src="https://github.com/user-attachments/assets/74ce98c4-4cea-412d-9974-adef328effaf" />
 
 # BotZi
 BotZi 3D printed robotic arm with Arduino Nano
