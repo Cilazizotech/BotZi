@@ -1,8 +1,10 @@
+
 # BotZi
 BotZi 3D printed robotic arm with Arduino Nano
-<img width="2638" height="1752" alt="2026-07-17T14_27_06 472Z-botzi_assembly__rendered_part1" src="https://github.com/user-attachments/assets/a82ce983-753b-4e3b-8811-e627a5fe6c41" />
+<img width="1253" height="832" alt="Gemini_Generated_Image__BOTZI_PCBWAY_GITHUB1" src="https://github.com/user-attachments/assets/2e0bab7a-50c7-4a6f-9d70-6ceeac30ec54" />
 
 Meet BotZI: The Compact, DIY Robot Arm for Makers & Innovators! 🤖
+
 I created BotZI out of a passion for accessible robotics and prototyping. Whether you are an educator, a hobbyist, or an engineer looking for a versatile tool on your workbench, BotZI was designed to bridge the gap between complex industrial automation and affordable desktop experimentation. From precise pick-and-place tasks to learning kinematics and custom micro-controller integration, BotZI provides a hands-on platform to bring your hardware projects to life.
 
 Building a reliable robot arm requires clean electronics and stable power distribution—and that’s where PCBWay came in to make this project possible!
@@ -45,16 +47,6 @@ Please use one of the .ino file according to your language preferences:
 For the assembly videos:
 https://www.youtube.com/@CilazizoTech
 
-For the purchasing of the 3D model, find BOM and other descriptions:
-https://cults3d.com/en/3d-model/gadget/botzi-3d-printed-robotic-arm-with-mg90s-servos-and-arduino-nano
-
-For purchasing the KITs you want:
-BotZi 3D printed robotic arm kit with Arduino Nano
-https://www.tindie.com/products/43268/
-	
-BotZi robotic arm kit components(without 3D parts):
-https://www.tindie.com/products/43401/
-
 <img width="3114" height="1752" alt="2026-07-17T15_14_21 848Z-20260607_145243 (Közepes)" src="https://github.com/user-attachments/assets/2accf344-273c-484f-8514-8a411dada6a0" />
 <img width="3114" height="1752" alt="2026-07-17T15_14_21 848Z-20260607_145225 (Közepes)" src="https://github.com/user-attachments/assets/5a114ed5-d78f-45e6-a43b-5fefda757b16" />
 <img width="3114" height="1752" alt="2026-07-17T15_14_21 848Z-20260607_145126 (Közepes)" src="https://github.com/user-attachments/assets/af9fc734-a402-4aba-8531-44d056aed9fa" />
@@ -72,4 +64,5 @@ https://www.tindie.com/products/43401/
 <img width="655" height="777" alt="gb3" src="https://github.com/user-attachments/assets/7261c5c4-126a-4007-b9a3-3a6a8e40e864" />
 <img width="604" height="891" alt="gb2" src="https://github.com/user-attachments/assets/082d8b2e-17c4-46c7-98ac-0bc449a4f7e4" />
 <img width="829" height="675" alt="gb1" src="https://github.com/user-attachments/assets/74ce98c4-4cea-412d-9974-adef328effaf" />
+<img width="120" height="35" alt="PCBWay logo（2）" src="https://github.com/user-attachments/assets/b4c04eca-05e5-41e4-8d3b-d7f305997810" />
 
