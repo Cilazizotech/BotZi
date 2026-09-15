@@ -2,6 +2,37 @@
 BotZi 3D printed robotic arm with Arduino Nano
 <img width="2638" height="1752" alt="2026-07-17T14_27_06 472Z-botzi_assembly__rendered_part1" src="https://github.com/user-attachments/assets/a82ce983-753b-4e3b-8811-e627a5fe6c41" />
 
+Meet BotZI: The Compact, DIY Robot Arm for Makers & Innovators! 🤖
+I created BotZI out of a passion for accessible robotics and prototyping. Whether you are an educator, a hobbyist, or an engineer looking for a versatile tool on your workbench, BotZI was designed to bridge the gap between complex industrial automation and affordable desktop experimentation. From precise pick-and-place tasks to learning kinematics and custom micro-controller integration, BotZI provides a hands-on platform to bring your hardware projects to life.
+
+Building a reliable robot arm requires clean electronics and stable power distribution—and that’s where PCBWay came in to make this project possible!
+
+Powered & Sponsored by PCBWay ⚡
+Prototyping complex electronics like the BotZI controller boards can be daunting, but PCBWay supported this project by providing top-tier custom PCBs. Here is why I trust PCBWay for my hardware builds:
+
+Superior Quality & Surface Finish: The PCBs arrived with flawless surface finishing, crisp silkscreen, and precise solder mask alignment.
+
+Exceptional Solderability: Solder pads wick smoothly without bridging, making component assembly and hand-soldering effortless.
+
+Rapid Prototyping & Turnaround: Fast manufacturing and swift delivery meant I could iterate on the BotZI hardware without delays.
+
+Reliable Manufacturing: Every trace and via performed perfectly right out of the box, ensuring high reliability for motor control and power handling.
+
+If you are working on your own robotics, IoT, or custom circuit projects, I highly recommend PCBWay for fast, high-quality, and budget-friendly PCB fabrication and assembly services.
+
+Check out BotZI on Tindie & Cults3D to build or customize your own today!
+
+Github:
+https://github.com/Cilazizotech/BotZi
+
+Buy only 3D model:
+https://cults3d.com/:2845980
+
+Buy kit on tindie.com:
+https://www.tindie.com/products/43268/
+
+Buy kit without 3D printed parts on tindie.com:
+https://www.tindie.com/products/43401/
 
 Please use one of the .ino file according to your language preferences:
 1. BotZi_controller_sw_20260712_v1.2.ino - Hungarian
