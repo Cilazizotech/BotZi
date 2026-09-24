@@ -47,6 +47,10 @@ Please use one of the .ino file according to your language preferences:
 For the assembly videos:
 https://www.youtube.com/@CilazizoTech
 
+Contact/Kapcsolat:
+cilazizotech@gmail.com
++36-30-4141-858
+
 <img width="3114" height="1752" alt="2026-07-17T15_14_21 848Z-20260607_145243 (Közepes)" src="https://github.com/user-attachments/assets/2accf344-273c-484f-8514-8a411dada6a0" />
 <img width="3114" height="1752" alt="2026-07-17T15_14_21 848Z-20260607_145225 (Közepes)" src="https://github.com/user-attachments/assets/5a114ed5-d78f-45e6-a43b-5fefda757b16" />
 <img width="3114" height="1752" alt="2026-07-17T15_14_21 848Z-20260607_145126 (Közepes)" src="https://github.com/user-attachments/assets/af9fc734-a402-4aba-8531-44d056aed9fa" />
