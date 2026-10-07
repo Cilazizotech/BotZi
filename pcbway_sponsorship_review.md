@@ -28,7 +28,7 @@ Ordering the custom controller board via PCBWay’s online interface was fast an
    * **Layers:** 2-Layer FR-4 Board
    * **Dimensions:** Standard compact shield footprint fit for BotZi base frame
    * **Thickness:** $1.6\text{ mm}$
-   * **Solder Mask Color:** Classic Matte Black / Blue
+   * **Solder Mask Color:** Classic Matte Blue
    * **Silkscreen:** White (clear pinout labels for servos & joysticks)
    * **Surface Finish:** HASL with Lead / Lead-Free HASL
 
@@ -38,13 +38,13 @@ Ordering the custom controller board via PCBWay’s online interface was fast an
 ## 4. Unboxing & Initial Inspection
 
 * **Packaging:** The PCBs arrived securely wrapped in anti-static vacuum packs inside a durable box, protecting pin headers and board edges from transit damage.
-* **Quantity Received:** 10/10 pristine boards.
+* **Quantity Received:** 5/5 pristine boards.
 * **Surface & Silkscreen Quality:** Silkscreen labels for servo channels (`S1`–`S4`), joystick inputs, and power rails were exceptionally sharp and easy to read. Solder masks were perfectly aligned with zero pad overlap.
 
 | Metric | Observation |
 | ----- | ----- |
 | **Packaging Integrity** | Excellent (Vacuum-sealed anti-static packaging) |
-| **Board Count** | 10 units (100% yield) |
+| **Board Count** | 5 units (100% yield) |
 | **Silkscreen & Masking** | High contrast, crisp pin labels, precise alignment |
 | **Pad Quality** | Smooth finish, highly receptive to solder wicking |
 
