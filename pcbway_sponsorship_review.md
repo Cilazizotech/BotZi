@@ -24,16 +24,15 @@ Ordering the custom controller board via PCBWay’s online interface was fast an
    * Exported standard Gerber files and drill maps from the PCB design software.
    * Uploaded directly to PCBWay's **PCB Instant Quote Engine**.
 
-<img width="1556" height="783" alt="pcb1" src="https://github.com/user-attachments/assets/b2b2d337-8a14-4810-86db-2a724b678458" />
-<img width="1087" height="571" alt="pcb2" src="https://github.com/user-attachments/assets/ca4a733e-9f88-484f-b0a7-d93cb9a14070" />
-<img width="493" height="409" alt="pcb3" src="https://github.com/user-attachments/assets/90db6faf-479a-491a-8bda-e31836b0a2db" />
-<img width="926" height="644" alt="pcb4" src="https://github.com/user-attachments/assets/bfa429d3-1225-4793-ab2d-2e421e0ba6cc" />
-<img width="927" height="643" alt="pcb5" src="https://github.com/user-attachments/assets/7bd46612-0294-4593-8b2d-78b80e73b3bb" />
-<img width="569" height="462" alt="pcb6" src="https://github.com/user-attachments/assets/96eaf3dd-c17a-4be2-a875-b89e98dcc3cb" />
-<img width="833" height="377" alt="standard_pcb_order_pcb7" src="https://github.com/user-attachments/assets/71d8edc6-19a7-46e0-bf82-a8e1ccdeb3f7" />
-<img width="851" height="271" alt="pcb8" src="https://github.com/user-attachments/assets/a38a5fd1-14d7-4326-ac86-6c93a56744dc" />
-<img width="845" height="521" alt="pcb9" src="https://github.com/user-attachments/assets/0cce2f76-6362-435a-b373-74a6face772f" />
-<img width="545" height="209" alt="pcb10" src="https://github.com/user-attachments/assets/a0541eb5-866a-4eb4-8947-78980d7ff353" />
+<img width="50%" alt="pcb1" src="https://github.com/user-attachments/assets/b2b2d337-8a14-4810-86db-2a724b678458" />
+<img width="50%" alt="pcb2" src="https://github.com/user-attachments/assets/ca4a733e-9f88-484f-b0a7-d93cb9a14070" />
+<img width="50%" alt="pcb3" src="https://github.com/user-attachments/assets/90db6faf-479a-491a-8bda-e31836b0a2db" />
+<img width="50%" alt="pcb4" src="https://github.com/user-attachments/assets/bfa429d3-1225-4793-ab2d-2e421e0ba6cc" />
+<img width="50%" alt="pcb5" src="https://github.com/user-attachments/assets/7bd46612-0294-4593-8b2d-78b80e73b3bb" />
+<img width="50%" alt="pcb6" src="https://github.com/user-attachments/assets/96eaf3dd-c17a-4be2-a875-b89e98dcc3cb" />
+<img width="50%" alt="pcb8" src="https://github.com/user-attachments/assets/a38a5fd1-14d7-4326-ac86-6c93a56744dc" />
+<img width="50%" alt="pcb9" src="https://github.com/user-attachments/assets/0cce2f76-6362-435a-b373-74a6face772f" />
+<img width="50%" alt="pcb10" src="https://github.com/user-attachments/assets/a0541eb5-866a-4eb4-8947-78980d7ff353" />
 
 2. **Board Specifications:**
    * **Layers:** 2-Layer FR-4 Board
