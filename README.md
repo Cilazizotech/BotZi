@@ -1,9 +1,8 @@
 
-# BotZi
-BotZi 3D printed robotic arm with Arduino Nano
+# BotZi - 3D printed robotic arm with Arduino Nano
 <img width="1253" height="832" alt="Gemini_Generated_Image__BOTZI_PCBWAY_GITHUB1" src="https://github.com/user-attachments/assets/2e0bab7a-50c7-4a6f-9d70-6ceeac30ec54" />
 
-Meet BotZI: The Compact, DIY Robot Arm for Makers & Innovators! 🤖
+# Meet BotZI: The Compact, DIY Robot Arm for Makers & Innovators! 🤖
 
 I created BotZI out of a passion for accessible robotics and prototyping. Whether you are an educator, a hobbyist, or an engineer looking for a versatile tool on your workbench, BotZI was designed to bridge the gap between complex industrial automation and affordable desktop experimentation. From precise pick-and-place tasks to learning kinematics and custom micro-controller integration, BotZI provides a hands-on platform to bring your hardware projects to life.
 
@@ -21,9 +20,9 @@ Rapid Prototyping & Turnaround: Fast manufacturing and swift delivery meant I co
 Reliable Manufacturing: Every trace and via performed perfectly right out of the box, ensuring high reliability for motor control and power handling.
 
 If you are working on your own robotics, IoT, or custom circuit projects, I highly recommend PCBWay for fast, high-quality, and budget-friendly PCB fabrication and assembly services.
-Check out my full review in [pcbway_sponsorship_review.md](./pcbway_sponsorship_review.md)!
+# Check out my full review in [pcbway_sponsorship_review.md](./pcbway_sponsorship_review.md)!
 
-Check out BotZI on Tindie & Cults3D to build or customize your own today!
+Check out BotZI on Tindie & Cults3D to build your own today!
 
 Github:
 https://github.com/Cilazizotech/BotZi
