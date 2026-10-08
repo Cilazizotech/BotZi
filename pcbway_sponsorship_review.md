@@ -74,8 +74,12 @@ Ordering the custom controller board via PCBWay’s online interface was fast an
 ## 4. Unboxing & Initial Inspection
 
 * **Packaging:** The PCBs arrived securely wrapped in anti-static vacuum packs inside a durable box, protecting pin headers and board edges from transit damage.
+<img width="80%" alt="unbox_box" src="https://github.com/user-attachments/assets/7524cb27-0ab3-482a-9e84-2377617322ab" />
+
 * **Quantity Received:** 5/5 pristine boards.
 * **Surface & Silkscreen Quality:** Silkscreen labels for servo channels (`S1`–`S4`), joystick inputs, and power rails were exceptionally sharp and easy to read. Solder masks were perfectly aligned with zero pad overlap.
+<img width="916" height="521" alt="unboxpcb1" src="https://github.com/user-attachments/assets/e42cd600-2e9d-40d5-ba39-80480682d928" />
+
 
 | Metric | Observation |
 | ----- | ----- |
@@ -92,7 +96,7 @@ To ensure the BotZi mainboard mounts flush inside the 3D-printed chassis, physic
 
 | CAD Feature | Nominal Spec ($\text{mm}$) | Measured Avg ($\text{mm}$) | Deviation ($\Delta$) | Status |
 | ----- | ----- | ----- | ----- | ----- |
-| **Board Length** | $141.00\text{ mm}$ | $140.97\text{ mm}$ | $0.03\text{ mm}$ | Pass |
+| **Board Length** | $141.00\text{ mm}$ | $140.97\text{ mm}$ | $-0.03\text{ mm}$ | Pass |
 | **Board Width** | $68.2.00\text{ mm}$ | $68.7\text{ mm}$ | $+0.05\text{ mm}$ | Pass |
 
 * **Result:** Dimensions matched CAD files with micro-millimeter precision, guaranteeing an effortless drop-in fit into the 3D-printed base housing.
