@@ -4,13 +4,18 @@
 
 [PCBWay](https://www.pcbway.com) is a leading one-stop manufacturing platform specializing in quick-turn PCB prototype fabrication, PCB assembly (PCBA), and custom hardware prototyping services—including **3D Printing (SLA, SLS, SLM Metal)**, **CNC Machining**, **Sheet Metal Fabrication**, and **Injection Molding**.
 
+<img width="60%" alt="PCBWay logo_2" src="https://github.com/user-attachments/assets/46381ec6-34f2-4753-81d1-89a16966b9d2" />
+
 Whether you need low-cost prototype circuit boards, custom shield assemblies, or 3D-printed structural mechanical parts, PCBWay delivers fast lead times, instant online quotes, and thorough Design for Manufacturability (DFM) reviews.
 
 ## 2. Project Background
 
 **BotZi** is an open-source, compact 3D-printed robotic arm kit designed for makers, educators, and hobbyists. Powered by an Arduino Nano and controlled via dual analog joysticks, BotZi is built for versatile desktop experimentation, pick-and-place tasks, and learning kinematics.
+<img width="60%" alt="AI_COVER_PCBWAY_blue" src="https://github.com/user-attachments/assets/8ba081c3-3620-4da5-81ea-0ba87d4acbc9" />
 
 To handle current spikes and power distribution across multiple MG90S micro servos without erratic voltage drops, BotZi requires a dedicated custom mainboard / controller shield.
+
+<img width="50%" alt="pcb2" src="https://github.com/user-attachments/assets/ca4a733e-9f88-484f-b0a7-d93cb9a14070" />
 
 * **Target Application:** Desktop Educational & Prototyping Robotic Arm
 * **Core Controller:** Arduino Nano + Custom Servo Driver Shield
@@ -23,7 +28,6 @@ Ordering the custom controller board via PCBWay’s online interface was fast an
 1. **File Upload & Quote:**
    * Exported standard Gerber files and drill maps from the PCB design software:
 <img width="50%" alt="pcb1" src="https://github.com/user-attachments/assets/b2b2d337-8a14-4810-86db-2a724b678458" />
-<img width="50%" alt="pcb2" src="https://github.com/user-attachments/assets/ca4a733e-9f88-484f-b0a7-d93cb9a14070" />
 
 * Generate gerber files in KiCAD:
 <img width="60%" alt="pcb3" src="https://github.com/user-attachments/assets/90db6faf-479a-491a-8bda-e31836b0a2db" />
