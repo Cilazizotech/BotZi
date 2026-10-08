@@ -21,6 +21,7 @@ Rapid Prototyping & Turnaround: Fast manufacturing and swift delivery meant I co
 Reliable Manufacturing: Every trace and via performed perfectly right out of the box, ensuring high reliability for motor control and power handling.
 
 If you are working on your own robotics, IoT, or custom circuit projects, I highly recommend PCBWay for fast, high-quality, and budget-friendly PCB fabrication and assembly services.
+Check out my full review in [pcbway_sponsorship_review.md](./pcbway_sponsorship_review.md)!
 
 Check out BotZI on Tindie & Cults3D to build or customize your own today!
 
