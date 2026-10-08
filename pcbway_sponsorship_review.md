@@ -2,7 +2,7 @@
 
 ## 1. Introduction to PCBWay
 
-[PCBWay](https://www.pcbway.com?utm_source=gemini) is a leading one-stop manufacturing platform specializing in quick-turn PCB prototype fabrication, PCB assembly (PCBA), and custom hardware prototyping services—including **3D Printing (SLA, SLS, SLM Metal)**, **CNC Machining**, **Sheet Metal Fabrication**, and **Injection Molding**.
+[PCBWay](https://www.pcbway.com) is a leading one-stop manufacturing platform specializing in quick-turn PCB prototype fabrication, PCB assembly (PCBA), and custom hardware prototyping services—including **3D Printing (SLA, SLS, SLM Metal)**, **CNC Machining**, **Sheet Metal Fabrication**, and **Injection Molding**.
 
 Whether you need low-cost prototype circuit boards, custom shield assemblies, or 3D-printed structural mechanical parts, PCBWay delivers fast lead times, instant online quotes, and thorough Design for Manufacturability (DFM) reviews.
 
