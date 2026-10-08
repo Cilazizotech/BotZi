@@ -74,7 +74,8 @@ Ordering the custom controller board via PCBWay’s online interface was fast an
 ## 4. Unboxing & Initial Inspection
 
 * **Packaging:** The PCBs arrived securely wrapped in anti-static vacuum packs inside a durable box, protecting pin headers and board edges from transit damage.
-<img width="80%" alt="unbox_box" src="https://github.com/user-attachments/assets/7524cb27-0ab3-482a-9e84-2377617322ab" />
+<img width="80%" alt="unbox_box" src="https://github.com/user-attachments/assets/2d3d6f4d-63bd-4c2d-b785-b13a8aa85f95" />
+
 
 * **Quantity Received:** 5/5 pristine boards.
 * **Surface & Silkscreen Quality:** Silkscreen labels for servo channels (`S1`–`S4`), joystick inputs, and power rails were exceptionally sharp and easy to read. Solder masks were perfectly aligned with zero pad overlap.
