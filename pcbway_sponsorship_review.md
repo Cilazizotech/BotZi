@@ -21,18 +21,44 @@ To handle current spikes and power distribution across multiple MG90S micro serv
 Ordering the custom controller board via PCBWay’s online interface was fast and straight-forward:
 
 1. **File Upload & Quote:**
-   * Exported standard Gerber files and drill maps from the PCB design software.
-   * Uploaded directly to PCBWay's **PCB Instant Quote Engine**.
-
+   * Exported standard Gerber files and drill maps from the PCB design software:
 <img width="50%" alt="pcb1" src="https://github.com/user-attachments/assets/b2b2d337-8a14-4810-86db-2a724b678458" />
 <img width="50%" alt="pcb2" src="https://github.com/user-attachments/assets/ca4a733e-9f88-484f-b0a7-d93cb9a14070" />
-<img width="50%" alt="pcb3" src="https://github.com/user-attachments/assets/90db6faf-479a-491a-8bda-e31836b0a2db" />
-<img width="50%" alt="pcb4" src="https://github.com/user-attachments/assets/bfa429d3-1225-4793-ab2d-2e421e0ba6cc" />
-<img width="50%" alt="pcb5" src="https://github.com/user-attachments/assets/7bd46612-0294-4593-8b2d-78b80e73b3bb" />
-<img width="50%" alt="pcb6" src="https://github.com/user-attachments/assets/96eaf3dd-c17a-4be2-a875-b89e98dcc3cb" />
-<img width="50%" alt="pcb8" src="https://github.com/user-attachments/assets/a38a5fd1-14d7-4326-ac86-6c93a56744dc" />
-<img width="50%" alt="pcb9" src="https://github.com/user-attachments/assets/0cce2f76-6362-435a-b373-74a6face772f" />
-<img width="50%" alt="pcb10" src="https://github.com/user-attachments/assets/a0541eb5-866a-4eb4-8947-78980d7ff353" />
+
+* Generate gerber files in KiCAD:
+<img width="60%" alt="pcb3" src="https://github.com/user-attachments/assets/90db6faf-479a-491a-8bda-e31836b0a2db" />
+
+* Do NOT forget to select the minimum required layers!:
+<img width="80%" alt="pcb4" src="https://github.com/user-attachments/assets/bfa429d3-1225-4793-ab2d-2e421e0ba6cc" />
+
+* Then generate drill files:
+<img width="80%" alt="pcb5" src="https://github.com/user-attachments/assets/7bd46612-0294-4593-8b2d-78b80e73b3bb" />
+<img width="60%" alt="pcb6" src="https://github.com/user-attachments/assets/96eaf3dd-c17a-4be2-a875-b89e98dcc3cb" />
+
+* After that pack all exported data into one .zip file.
+
+* Uploaded directly to PCBWay's **Quick order**:
+<img width="75%" alt="pcb8" src="https://github.com/user-attachments/assets/a38a5fd1-14d7-4326-ac86-6c93a56744dc" />
+<img width="75%" alt="pcb9" src="https://github.com/user-attachments/assets/0cce2f76-6362-435a-b373-74a6face772f" />
+
+* Add the .zip file into the upload:
+<img width="60%" alt="pcb10" src="https://github.com/user-attachments/assets/a0541eb5-866a-4eb4-8947-78980d7ff353" />
+<img width="50%" alt="pcb11" src="https://github.com/user-attachments/assets/78259b72-6a8d-4a0d-b312-643c0fe53b67" />
+
+* After successful upload the dimensions can be seen:
+<img width="85%" alt="pcb12" src="https://github.com/user-attachments/assets/39874e42-5993-4353-ad7a-be01c16bd9eb" />
+
+* Properties of PCB can be reviewed and changed to the desired settings:
+<img width="80%" alt="pcb13" src="https://github.com/user-attachments/assets/ac34fe16-2bee-4bb8-8ce1-87b8a573b7d7" />
+<img width="80%" alt="pcb14" src="https://github.com/user-attachments/assets/b7f5a7db-aa61-456b-af00-620a87a38498" />
+
+* Select shipping method:
+<img width="50%" alt="pcb16" src="https://github.com/user-attachments/assets/1fae1418-4fab-4ee9-943d-57bd74b9e56a" />
+<img width="45%" alt="pcb18" src="https://github.com/user-attachments/assets/c936c4b9-daa6-462f-a885-b39762baaff2" />
+
+* Order is ready for checkout:
+<img width="80%" alt="pcb19" src="https://github.com/user-attachments/assets/62b3ecaa-6f6f-4399-aac8-df4c92a30ba0" />
+
 
 2. **Board Specifications:**
    * **Layers:** 2-Layer FR-4 Board
@@ -40,7 +66,7 @@ Ordering the custom controller board via PCBWay’s online interface was fast an
    * **Thickness:** $1.6\text{ mm}$
    * **Solder Mask Color:** Classic Matte Blue
    * **Silkscreen:** White (clear pinout labels for servos & joysticks)
-   * **Surface Finish:** HASL with Lead / Lead-Free HASL
+   * **Surface Finish:** HASL with Lead
 
 3. **Engineering DFM Review:**
    * Within hours, PCBWay engineers verified trace widths, drill clearances, and pad spacings for the servo headers and Arduino sockets before production started.
