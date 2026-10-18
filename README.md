@@ -25,6 +25,7 @@ Whether you need low-cost prototype circuit boards, custom shield assemblies, or
 ## 2. Project Background
 
 **BotZi** is an open-source, compact 3D-printed robotic arm kit designed for makers, educators, and hobbyists. Powered by an Arduino Nano and controlled via dual analog joysticks, BotZi is built for versatile desktop experimentation, pick-and-place tasks, and learning kinematics.
+
 <img width="60%" alt="AI_COVER_PCBWAY_blue" src="https://github.com/user-attachments/assets/8ba081c3-3620-4da5-81ea-0ba87d4acbc9" />
 
 To handle current spikes and power distribution across multiple MG90S micro servos without erratic voltage drops, BotZi requires a dedicated custom mainboard / controller shield.
@@ -166,22 +167,23 @@ https://www.youtube.com/@CilazizoTech
 cilazizotech@gmail.com
 +36-30-4141-858
 
-<img width="3114" height="1752" alt="2026-07-17T15_14_21 848Z-20260607_145243 (Közepes)" src="https://github.com/user-attachments/assets/2accf344-273c-484f-8514-8a411dada6a0" />
+<img width="1364" height="768" alt="1_new" src="https://github.com/user-attachments/assets/2b473616-c5a7-4874-bb85-94a54b1744b7" />
 <img width="3114" height="1752" alt="2026-07-17T15_14_21 848Z-20260607_145225 (Közepes)" src="https://github.com/user-attachments/assets/5a114ed5-d78f-45e6-a43b-5fefda757b16" />
 <img width="3114" height="1752" alt="2026-07-17T15_14_21 848Z-20260607_145126 (Közepes)" src="https://github.com/user-attachments/assets/af9fc734-a402-4aba-8531-44d056aed9fa" />
 <img width="3114" height="1752" alt="2026-07-17T15_14_21 848Z-20260607_145123 (Közepes)" src="https://github.com/user-attachments/assets/1ac47508-2469-4c85-b296-0cea5aa23d38" />
 <img width="3114" height="1752" alt="2026-07-17T15_14_21 848Z-20260607_145119 (Közepes)" src="https://github.com/user-attachments/assets/635d0867-7f84-4458-89cd-45b2e16e0f6a" />
-<img width="3114" height="1752" alt="2026-07-17T15_14_21 848Z-20260607_145059 (Közepes)" src="https://github.com/user-attachments/assets/da34cc08-b810-4e80-b501-cccef2887466" />
-<img width="3114" height="1752" alt="2026-07-17T15_14_21 848Z-20260607_145041 (Közepes)" src="https://github.com/user-attachments/assets/5a24ddde-4337-4700-933d-66c67b65d167" />
+<img width="874" height="432" alt="kékPCB" src="https://github.com/user-attachments/assets/187f5891-5c3c-4611-8143-715e8ec85200" />
+<img width="1364" height="768" alt="2new" src="https://github.com/user-attachments/assets/c2210d31-8d1f-4ffd-95aa-ed4238a0dc59" />
+
 <img width="3114" height="1752" alt="2026-07-17T15_14_21 848Z-20260607_144927 (Közepes)" src="https://github.com/user-attachments/assets/484bd2bc-be94-454b-aaa8-9efa4e81dbf7" />
 <img width="3114" height="1752" alt="2026-07-17T15_14_21 848Z-20260607_144918 (Közepes)" src="https://github.com/user-attachments/assets/a9f798b9-7e17-46f3-ad39-6a9dc3408db1" />
 <img width="3111" height="1752" alt="2026-07-17T14_58_29 963Z-20260613_181242" src="https://github.com/user-attachments/assets/ffcb1ad6-57bc-4064-b1d7-03f719d2e59a" />
 <img width="2336" height="4148" alt="2026-07-17T14_58_29 963Z-20260613_181218" src="https://github.com/user-attachments/assets/c0c49d64-e497-4d26-9c69-c4e2119b0dc7" />
 <img width="3111" height="1752" alt="2026-07-17T14_58_29 963Z-20260613_181212" src="https://github.com/user-attachments/assets/da7127ae-a763-4dac-a92b-050597b55e5a" />
-<img width="3111" height="1752" alt="2026-07-17T14_58_29 963Z-20260613_181209" src="https://github.com/user-attachments/assets/6155fc9b-5327-48d8-9b63-b8059b241a74" />
-<img width="675" height="1073" alt="gb4" src="https://github.com/user-attachments/assets/d70c9f2a-d739-4d27-8715-50d8fc0e37ee" />
+<img width="1365" height="768" alt="gen1" src="https://github.com/user-attachments/assets/42176d18-6107-4831-8f37-c5d53eb39d27" />
+<img width="816" height="1297" alt="zoldkar_newpcb1" src="https://github.com/user-attachments/assets/d80b0f6f-3752-4143-a4d8-48b31677da55" />
 <img width="655" height="777" alt="gb3" src="https://github.com/user-attachments/assets/7261c5c4-126a-4007-b9a3-3a6a8e40e864" />
 <img width="604" height="891" alt="gb2" src="https://github.com/user-attachments/assets/082d8b2e-17c4-46c7-98ac-0bc449a4f7e4" />
 <img width="829" height="675" alt="gb1" src="https://github.com/user-attachments/assets/74ce98c4-4cea-412d-9974-adef328effaf" />
-<img width="120" height="35" alt="PCBWay logo（2）" src="https://github.com/user-attachments/assets/b4c04eca-05e5-41e4-8d3b-d7f305997810" />
 
+<img width="120" height="35" alt="PCBWay logo（2）" src="https://github.com/user-attachments/assets/b4c04eca-05e5-41e4-8d3b-d7f305997810" />
